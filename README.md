@@ -108,8 +108,8 @@ My primary objective for this project was to create a secure, event-driven task 
     (Note: Ensure you have bootstrapped CDK in your AWS account if this is your first deployment: `cdk bootstrap aws://YOUR-ACCOUNT-ID/YOUR-REGION`)
 
 ## Testing the Live Application
-
-Once deployed, you can test the live application at the URL provided by AWS Amplify Hosting (e.g., `https://main.d1wbbnjgdrig4e.amplifyapp.com/` - check your Amplify console for the exact URL).
+You can test the live application at the URL provided by AWS Amplify Hosting: 
+- `https://main.d1wbbnjgdrig4e.amplifyapp.com/`
 
 Use the default admin credentials:
 
